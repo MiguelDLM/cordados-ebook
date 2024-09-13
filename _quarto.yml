@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: ../docs
+  title: "Cordados"
+author: "Margarito Mora Nuñez"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+    theme:
+      - darkly 
+    highlight: github
+
+website:
+  navbar:
+    background: primary
+    search: true
+  sidebar:
+      style: "docked"

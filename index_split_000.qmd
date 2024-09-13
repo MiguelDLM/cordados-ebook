@@ -783,58 +783,57 @@ Peces que vivieron del Cámbrico superior al Silúrico. Caparazón formado por g
 
 Células óseas ausentes; la naturaleza acelular de los huesos puede ser más un carácter primitivo que una condición secundaria, a diferencia de los peces avanzados, los cuales se derivaron de osteocitos. Al menos dos canales semicirculares. El origen monofilético de este grupo está actualmente bien aceptado. Tres subclases y 4 órdenes (Astrapidiformes, Arandaspidiformes, Cyathaspidiformes y Pteraspidiformes).
 Géneros representativos: *†Astraspis, †Arandaspis*,
+  ------------------------------------------------------------ ------------------------------------------------------------
+    ![](index-33_1.jpg)
 
-![](index-33_1.jpg)
+    *†Arandaspis*
 
-*†Arandaspis*
+    ![](index-33_2.jpg)
 
-![](index-33_2.jpg)
+    *†Pteraspis*
 
-*†Pteraspis*
+    ![](index-33_3.jpg)
 
-![](index-33_3.jpg)
-
-*†Astraspis*
-
+    *†Astraspis*
+  ------------------------------------------------------------ ------------------------------------------------------------
 †Clase ANASPIDA
 
 Peces predominantemente dulceacuícolas del Silúrico y Devónico. Cuerpo fusiforme o ligeramente deprimido, con una longitud máxima de 15 cm y boca terminal. Seis a 15 pares de aperturas branquiales laterales. La región branquial se encuentra en la parte posterior de los ojos, con la primera apertura un tanto separada de los mismos (como en lampreas). Ojos grandes y laterales; cola hipocerca. Grandes lóbulos epicordales. Aleta dorsal anterior ausente. Espinas pectorales únicas presentes. Cuerpo usualmente cubierto por escamas ornamentales dorsoventralmente elongadas. Un solo orden (Anaspidiformes). Géneros representativos: *†Pharyngolepis, †Lasanius, †Jamoytius* y *†Birkenia*.
+  ------------------------------------------------------------ ------------------------------------------------------------
+    ![](index-33_5.jpg)
 
-![](index-33_5.jpg)
+    *†Jamoytius*
 
-*†Jamoytius*
+    ![](index-33_4.jpg)
 
-![](index-33_4.jpg)
-
-*†Pharyngolepis*
-
+    *†Pharyngolepis*
+  ------------------------------------------------------------ ------------------------------------------------------------
 †Clase THELODONTI
 
 Este grupo fue conocido primeramente por escamas aisladas y tomó una gran importancia en la datación estratigráfica. La mayoría son de cuerpo deprimido, con una boca horizontal, cola asimétrica, una aleta dorsal y un par de prolongaciones pectorales. Algunos son comprimidos con una boca tubular y colas simétricas. Vivieron del Ordovícico superior al Devónico superior. Se reconocen cinco ordenes (Loganelliformes, Shieliiformes, Phlebolepidiformes, Thelodontiformes y Furcacaudiformes).
-Géneros representativos:
+Géneros representativos: †Thelodus, †Lanarkia, †Paralogania, †Furcacauda.
+  ------------------------------------------------------------ ------------------------------------------------------------
+    ![](index-34_4.jpg)
 
-†Thelodus, †Lanarkia, †Paralogania, †Furcacauda.
+    *†Lanarkia*
 
-![](index-34_4.jpg)
+    ![](index-34_1.jpg)
 
-*†Lanarkia*
-
-![](index-34_1.jpg)
-
-*†Thelodus*
+    *†Thelodus*
+  ------------------------------------------------------------ ------------------------------------------------------------
 
 #### †Clase OSTEOSTRACI (Monorhina) 
 
 Según análisis cladísticos, este grupo es considerado como hermano de los gnatostomados. Vivieron en el Silúrico y Devónico. La coraza cefálica es de una sola pieza y no crecía con el pez. Tenían dos canales semicirculares. Algunas zonas óseas de los cephalaspidomorfos podrían haber tenido osteocitos. Un solo nostrilo abierto entre los ojos con el ojo pineal por detrás. El sistema de línea lateral estaba restringido a la cabeza. Se reconocen tres órdenes (Cephalaspidiformes, Galeaspidiformes y Pituriaspidiformes). Géneros representativos: *†Hemicyclaspis, †Cephalaspis, †Ateleaspis, †Eugaleaspis, †Huananaspis.*
+  ------------------------------------------------------------ ------------------------------------------------------------
+    ![](index-34_2.jpg)
 
-![](index-34_2.jpg)
+    *†Hemicyclaspis*
 
-*†Hemicyclaspis*
+    ![](index-34_3.jpg)
 
-![](index-34_3.jpg)
-
-*†Cephalaspis*
-
+    *†Cephalaspis*
+  ------------------------------------------------------------ ------------------------------------------------------------
 Literatura complementaria:
 
 -   Álvarez del Villar, J. 1977. Los cordados: origen, evolución y hábitos de los vertebrados. CECSA. México.
@@ -974,19 +973,19 @@ Se cree que la retención de los dentículos y la pérdida del resto de las plac
 órdenes:
 
 †Acanthothoraciformes, †Rhenaniformes, †Antiarchiformes, † Petalichthyiformes, †Ptyctodontiformes y †Arthrodiriformes. Algunos géneros representativos son: † *Dunkleosteus,* † *Bothriolepis* y *Coccosteus.*
+  ------------------------------------------------------------ ------------------------------------------------------------
+    ![](index-39_3.jpg)
 
-![](index-39_3.jpg)
+    † *Dunkleosteus*
 
-† *Dunkleosteus*
+    ![](index-39_5.jpg)
 
-![](index-39_5.jpg)
+    † *Bothriolepis*
 
-† *Bothriolepis*
+    ![](index-39_4.jpg)
 
-![](index-39_4.jpg)
-
-† *Coccosteus*
-
+    † *Coccosteus*
+  ------------------------------------------------------------ ------------------------------------------------------------
 #### **Literatura complementaria:** 
 
 -   Álvarez del Villar, J. 1977. **Los cordados: origen, evolución y hábitos de los vertebrados**.CECSA. México.
@@ -1754,23 +1753,23 @@ Su principal característica es la presencia de radios en las aletas y la ausenc
 Formada por un solo orden, que tiene representantes actuales. Originados en el Devónico, prosperaron durante 200 millones de años y posteriormente fueron sustituidos por peces más especializados.
 
 **Orden Polypteriformes:** (12 spp.) peces de cuerpo generalmente fusiforme y aleta caudal heterocerca, escamas de forma romboica. Los bichires ( *Polypterus*) son representantes vivos de este grupo con escamas ganoideas con dentículos externos. Las aletas pectorales tienen un pequeño lóbulo carnoso. La vejiga gaseosa es bilobulada y se encuentra en posición ventral. Son únicamente dos géneros: *Polypterus y* *Calamoichthys*, ambos habitantes de los ríos de Africa.
+  ------------------------------------------------------------ ------------------------------------------------------------
+    ![](index-64_9.jpg)
 
-![](index-64_9.jpg)
+    *Polypterus*
 
-*Polypterus*
+    ![](index-64_10.jpg)
 
-![](index-64_10.jpg)
+    *Calamoichthys*
 
-*Calamoichthys*
+    ![](index-65_1.png)
 
-![](index-65_1.png)
+    ![](index-65_2.jpg)
 
-![](index-65_2.jpg)
+    ![](index-65_3.jpg)
 
-![](index-65_3.jpg)
-
-![](index-65_4.jpg)
-
+    ![](index-65_4.jpg)
+  ------------------------------------------------------------ ------------------------------------------------------------
 **CLASE CHONDROSTEI**
 
 Formada por un solo orden con representantes actuales y 10 extintos. Son filogenéticamente cercanos a los paleoniscoideos por la tendencia a la condrificación del esqueleto.
@@ -2175,13 +2174,8 @@ level classification of all living organisms. **PLoS**
 
 Torres-Orozco, R. 1991. **Los peces de México**. AGT Editor. México.
 
-![](index-71_1.png)
 
-![](index-71_2.png)
 
-![](index-71_3.jpg)
-
-![](index-71_4.png)
 
 Sección 12
 
@@ -2438,16 +2432,6 @@ level classification of all living organisms. **PLoS**
 
 **ONE.** :10(4).
 
-![](index-78_1.png)
-
-![](index-78_2.jpg)
-
-![](index-78_3.jpg)
-
-![](index-78_4.png)
-
-![](index-78_5.jpg)
-
 Sección 14
 
 Los
@@ -2635,13 +2619,7 @@ México.
 Vitt, L.J. & J.P. Caldwell. 2009. Herpetology: an introductory biology
 of amphibians and reptiles. Academic Press. United States of America.
 
-![](index-85_1.jpg)
 
-![](index-85_2.jpg)
-
-![](index-85_3.png)
-
-![](index-85_4.jpg)
 
 ![](index-85_5.jpg)
 
@@ -4419,15 +4397,6 @@ Parker, T. J., W. A. Haswell y J. Nadal. 1991. Zoología: Cordados. Reverté. Es
 
 Romer, A. S. y T. S. Parsons. 1981. Anatomía comparada. Interamericana. México.
 
-![](index-129_1.png)
-
-![](index-129_2.jpg)
-
-![](index-129_3.jpg)
-
-![](index-129_4.png)
-
-![](index-129_5.jpg)
 
 Sección 20
 
@@ -4509,21 +4478,10 @@ Lira I., E., C. Mudespacher y B. García. 1994. Theria: Diccionario de Mamífero
 
 Editores. México.
 
-![](index-132_1.png)
-
-![](index-132_2.jpg)
-
-![](index-132_3.jpg)
-
-![](index-132_4.png)
-
-![](index-132_5.jpg)
 
 Sección 20
 
-Los
-
-mamíferos
+Los mamíferos
 
 características
 
@@ -4809,17 +4767,6 @@ MacDonald, D. 2006. La gran enciclopedia de los mamíferos. Diana. México.
 
 Wilson, D. E. & D. A. M. Reeder (Editors). 1993. Mammal species of the world: a taxonomic and geographic reference. Smithsonian Institution Press. USA.
 
-![](index-143_1.jpg)
-
-![](index-143_2.jpg)
-
-![](index-143_3.jpg)
-
-![](index-143_4.jpg)
-
-![](index-143_5.jpg)
-
-![](index-143_6.jpg)
 
 ![](index-143_7.jpg)
 
@@ -5451,7 +5398,6 @@ MacDonald, D. 2006. La gran enciclopedia de los mamíferos. Diana. México.
 
 Wilson, D. E. & D. A. M. Reeder (Editors). 1993. Mammal species of the world: a taxonomic and geographic reference. Smithsonian Institution Press. USA.
 
-![](index-158_1.jpg)
 
 ![](index-158_2.jpg)
 
@@ -5479,7 +5425,6 @@ b\. Región Neártica: abarca la mayor parte de Norteamérica y Groenlandia. La 
 
 6\. Región Antártica: incluye el Continente Antártico. Su existencia no es admitida por muchos biogeógrafos debido a su pobre diversidad biológica y sus condiciones climáticas.
 
-![](index-159_1.jpg)
 
 ![](index-159_2.png)
 
@@ -5575,7 +5520,6 @@ Ascidiacea
 
 Amphioxi
 
-![](index-160_1.jpg)
 
 ![](index-160_2.jpg)
 
@@ -5585,31 +5529,22 @@ Amphioxi
 
 ![](index-160_5.jpg)
 
-![](index-160_6.jpg)
 
 ![](index-160_7.jpg)
 
-![](index-160_8.jpg)
 
 ![](index-160_9.jpg)
 
-![](index-160_10.jpg)
 
 ![](index-160_11.jpg)
 
-![](index-160_12.jpg)
 
 ![](index-160_13.jpg)
 
-![](index-160_14.jpg)
 
-![](index-160_15.jpg)
 
 ![](index-160_16.jpg)
 
-![](index-160_17.jpg)
-
-![](index-160_18.jpg)
 
 ![](index-160_19.png)
 
