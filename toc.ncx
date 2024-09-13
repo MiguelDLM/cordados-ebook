@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="c87d0f76-41a2-46dd-baab-81142717b123" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.99.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>c6d1af9d6f8d42b6a4cbd43cc58cc6b3</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cordados lectura 00 portada exterior</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>Cordados lectura 00 portada interior</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="2">
+      <navLabel>
+        <text>Cordados lectura 01 Introducción 2021</text>
+      </navLabel>
+      <content src="index_split_000.html#p2"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="3">
+      <navLabel>
+        <text>Cordados lectura 02 Hemicordados</text>
+      </navLabel>
+      <content src="index_split_000.html#p8"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="4">
+      <navLabel>
+        <text>Cordados lectura 03 Protocordados</text>
+      </navLabel>
+      <content src="index_split_000.html#p13"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="5">
+      <navLabel>
+        <text>Cordados lectura 04 Introducción a los vertebrados</text>
+      </navLabel>
+      <content src="index_split_000.html#p19"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="6">
+      <navLabel>
+        <text>Cordados lectura 05 Agnatos 2021</text>
+      </navLabel>
+      <content src="index_split_000.html#p27"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="7">
+      <navLabel>
+        <text>Cordados lectura 06 Los primeros gnatostomados</text>
+      </navLabel>
+      <content src="index_split_000.html#p36"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="8">
+      <navLabel>
+        <text>Cordados lectura 07 Condrictos características</text>
+      </navLabel>
+      <content src="index_split_000.html#p41"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="9">
+      <navLabel>
+        <text>Cordados lectura 08 Condrictos diversidad y taxonomía 2021</text>
+      </navLabel>
+      <content src="index_split_000.html#p46"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="10">
+      <navLabel>
+        <text>Cordados lectura 09 Acantodios</text>
+      </navLabel>
+      <content src="index_split_000.html#p55"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="11">
+      <navLabel>
+        <text>Cordados lectura 10 Actinopterigios características</text>
+      </navLabel>
+      <content src="index_split_000.html#p57"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="12">
+      <navLabel>
+        <text>Cordados lectura 11 Actinopterigios diversidad y taxonomía 2021 A</text>
+      </navLabel>
+      <content src="index_split_000.html#p64"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="13">
+      <navLabel>
+        <text>Cordados lectura 12 Actinopterigios origen y evolución</text>
+      </navLabel>
+      <content src="index_split_000.html#p71"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="14">
+      <navLabel>
+        <text>Cordados lectura 13 Sarcopterigios</text>
+      </navLabel>
+      <content src="index_split_000.html#p73"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="15">
+      <navLabel>
+        <text>Cordados lectura 14 Anfibios características</text>
+      </navLabel>
+      <content src="index_split_000.html#p78"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="16">
+      <navLabel>
+        <text>Cordados lectura 15 Anfibios diversidad y taxonomía</text>
+      </navLabel>
+      <content src="index_split_000.html#p85"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="17">
+      <navLabel>
+        <text>Cordados lectura 16 Reptiles características 2021</text>
+      </navLabel>
+      <content src="index_split_001.html#p90"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="18">
+      <navLabel>
+        <text>Cordados lectura 17 Reptiles diversidad y taxonomía 2021</text>
+      </navLabel>
+      <content src="index_split_001.html#p97"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="19">
+      <navLabel>
+        <text>Cordados lectura 18 Aves características generales</text>
+      </navLabel>
+      <content src="index_split_001.html#p106"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="20">
+      <navLabel>
+        <text>Cordados lectura 19 Aves diversidad y taxonomía</text>
+      </navLabel>
+      <content src="index_split_001.html#p115"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="21">
+      <navLabel>
+        <text>Cordados lectura 20 Sinápsidos</text>
+      </navLabel>
+      <content src="index_split_001.html#p129"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="22">
+      <navLabel>
+        <text>Cordados lectura 21 Mamíferos características generales</text>
+      </navLabel>
+      <content src="index_split_001.html#p132"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="23">
+      <navLabel>
+        <text>Cordados lectura 22 Mamíferos diversidad y taxonomía</text>
+      </navLabel>
+      <content src="index_split_001.html#p143"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="24">
+      <navLabel>
+        <text>Cordados lectura 23 Anexos</text>
+      </navLabel>
+      <content src="index_split_001.html#p158"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="25">
+      <navLabel>
+        <text>Cordados Literatura recomendada</text>
+      </navLabel>
+      <content src="index_split_001.html#p161"/>
+    </navPoint>
+  </navMap>
+</ncx>
