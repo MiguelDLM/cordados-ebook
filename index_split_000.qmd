@@ -31,11 +31,9 @@ output:
 
 **Foto de portada interior**: Pingüinos de El Cabo, *Spheniscus demersus* (Zooacuarium de Madrid, España). M. Mora-Núñez, 2003.
 
-# Cordados
+# Introducción a los Cordados
 
-## Introducción
-
-### LOS CORDADOS Y LA DIVERSIDAD BIOLÓGICA
+## LOS CORDADOS Y LA DIVERSIDAD BIOLÓGICA
 
 Existen muchas clasificaciones distintas para los seres vivos. Algunas de las más modernas los agrupan en tres conjuntos denominados imperios o dominios. Tales grupos están formados por las arqueobacterias, las eubacterias y los eucariontes respectivamente. A su vez, los dominios pueden estar divididos en reinos. Enseguida se muestra esta clasificación y el número aproximado de especies conocidas para cada uno:
 
@@ -64,13 +62,13 @@ El reino animal está caracterizado por el hecho de que sus miembros son multice
 | Echinodermata    | 7,550                       |
 | Briozoa          | 6,008                       |
 
-### CARACTERÍSTICAS DE LOS CORDADOS
+## CARACTERÍSTICAS DE LOS CORDADOS
 
 Las características que definen al Phylum Chordata se agrupan en dos tipos; las primarias y secundarias. Las primeras son exclusivas del phylum y generales para todos sus miembros; las segundas pueden presentar excepciones en algún grupo o bien, pueden compartirse con algunos otros phyla.
 
 Las características que definen al Phylum Chordata se agrupan en dos tipos; las primarias y secundarias. Las primeras son exclusivas del phylum y generales para todos sus miembros; las segundas pueden presentar excepciones en algún grupo o bien, pueden compartirse con algunos otros phyla.
 
-##### Caracteres primarios
+#### Caracteres primarios
 
 - **La presencia de notocordio**. El notocordio es una varilla esquelética longitudinal formada por grandes células vacuoladas que contienen una solución gelatinosa y que están encerradas en una vaina fibrosa de tejido conectivo. Sirve, a la vez que es flexible, como estructura de soporte, ya que la presión hidrostática de la solución hace que sea rígida. En anfioxos y larvas de tunicados, los músculos se fijan a su vaina y se doblan de lado a lado en la natación. La columna vertebral se desarrolla alrededor de la notocorda y ésta se pierde en la vida postembrionaria de los vertebrados. No obstante, la notocorda persiste en algunos peces y corre recta a lo largo de los cuerpos huecos de las vértebras.
 
@@ -82,7 +80,7 @@ Las características que definen al Phylum Chordata se agrupan en dos tipos; las
 
 - **Cola postanal** en alguna etapa del desarrollo. La cola es muscular y sirve para la propulsión en la larva de los tunicados, cefalocordados y vertebrados pisciformes.
 
-##### Caracteres secundarios
+#### Caracteres secundarios
 
 - Células fotosensoriales (incluyendo las retinas ópticas cuando están presentes) se desarrollan a partir del ectodermo del sistema nervioso central, no de células epidérmicas ectodérmicas como en otros phyla.
 
@@ -98,7 +96,7 @@ Las características que definen al Phylum Chordata se agrupan en dos tipos; las
 
 - Animales deuterostomados con simetría bilateral: el ano se desarrolla en el lugar del blastoporo y el celoma es de origen enterocélico.
 
-### ORIGEN DE LOS CORDADOS 
+## ORIGEN DE LOS CORDADOS 
 
 Se considera que los cordados aparecieron, junto con muchos otros phyla, en la gran explosión del Cámbrico, hace aproximadamente 545 millones de años. Aún no está claro de qué grupo animal ancestral descendieron y actualmente existen muchas teorías que explican el origen y el parentesco de los primeros cordados.
 
@@ -191,11 +189,9 @@ Literatura complementaria:
 - Parker, T. J., W. A. Haswell y J. Nadal. 1991. Zoología: Cordados. Reverté. España.
 - Ruggiero, M. A., D. P. Gordon, T. M. Orrell, N. Bailly, T. Bourgoin, R. C. Brusca, T. Cavalier-Smith, M. D. Guiry, P. M. Kirk. 2015. A higher level classification of all living organisms. PLoS ONE.:10(4).
 
-# Sección 02
-
 # HemiCordados 
 
-### PHYLUM HEMICHORDATA (Adelochordata)
+## PHYLUM HEMICHORDATA (Adelochordata)
 
 Griego: *hemi*, medio + *chorda*, cuerda.
 
@@ -280,16 +276,16 @@ Rhabdopleura es una especie colonial, sus zooides son de sexos separados, pero l
 #### Taxonomía:
 
 Todas las especies de la clase se incluyen en un solo orden: Cephalodiscida. Se conocen 17 especies vivientes. Los géneros representativos de la clase son: *Cephalodiscus, Rhabdopleura* y *Atubaria*.
-
+  -------------------------------------------------------------------- --------------------------------
 ![](index-11_1.jpg)
 
 *Cephalodiscus*
-
+  -------------------------------------------------------------------- --------------------------------
 ### †Clase GRAPTOLITHINA
 
 Griego: *graptos*, escrito y *lithos*, piedra. Es una clase extinta de hemicordados coloniales que abundaron en los mares desde el Cámbrico medio hasta el Carbonífero inferior. Sus fósiles son muy comunes y de distribución mundial, siendo utilizados por los paleontólogos como indicadores de edad. Se consideran parientes muy cercanos de los pterobranquios. Géneros representativos: *Rastrites, Dydimograptus* y *Climatograptus*.
 
-#### Literatura complementaria:
+### Literatura complementaria:
 
 - Álvarez del Villar, J. 1977. Los cordados: origen, evolución y hábitos de los vertebrados. CECSA. México.
 - Brusca, R. C., W. Moore, S. M. Shuter. 2016. Invertebrates. Sinauer-Oxford University Press. United States of America.
@@ -297,9 +293,8 @@ Griego: *graptos*, escrito y *lithos*, piedra. Es una clase extinta de hemicorda
 - Hickman, C. P. (Jr), L. S. Roberts y F. M. Hickman. 2015. Zoología: principios integrales. Interamericana-Mc Graw Hill. España.
 - Parker, T. J., W. A. Haswell y J. Nadal. 1991. Zoología: Cordados. Reverté. España.
 
-## Sección 03
 
-## Protocordados
+# Protocordados
 
 ## PHYLUM CHORDATA
 
@@ -328,11 +323,6 @@ Griego: *oura*, cola + latín *chorda*, cordón + ata, caracterizado por. Este s
 -   Carecen de órganos excretores. El amoniaco se difunde y el ácido úrico es recolectado por nefrocitos ameboides de la sangre.
 
 -   Son en su mayoría hermafroditas.
-
-![](index-14_1.jpg)
-
-Morfología y anatomía de una ascidia.
-
 ### Clase ASCIDIACEA 
 
 Griego: *askiolon*, bolsita + *aceos* sufijo (Pequeñas bolsas) Incluye
@@ -349,8 +339,13 @@ Del sifón oral parte el tubo digestivo que, al llegar a la cavidad atrial, se e
 El corazón es un saco muscular situado cerca del estómago. No hay verdaderos vasos, la sangre circula a través de un sistema de canales o senos, por lo que es un sistema abierto.
 
 La respiración se lleva a cabo en la faringe, la sangre lleva a cabo el intercambio gaseoso en las hendiduras faríngeas, y de ahí el oxígeno se distribuye al cuerpo en general. El sistema nervioso es extremadamente simple. Hay un solo ganglio neural que está situado entre las aberturas oral y atrial, del que parten nervios para todas partes del cuerpo. 
+  -------------------------------------------------------------------- --------------------------------
+![](index-14_1.jpg)
 
-Reproducción y desarrollo
+Morfología y anatomía de una ascidia.
+  -------------------------------------------------------------------- --------------------------------
+
+#### Reproducción y desarrollo
 
 La fecundación suele tener lugar dentro o fuera de la cavidad atrial. Las larvas tienen siempre vida libre nadadora. Cuando una larva se fija y transcurridas 36 horas, la cola desaparece y los órganos giran 180°, por lo que la boca y el atrioporo miran hacia el lado opuesto de la superficie de fijación.
 
@@ -359,18 +354,18 @@ La fecundación suele tener lugar dentro o fuera de la cavidad atrial. Las larva
 La clase ASCIDIACEA incluye 2,760 especies y se divide en dos órdenes:
 
 Orden **Enterogona**: urocordados solitarios o coloniales en los que cada individuo tiene sifón atrial y túnica independiente. Son incapaces de reproducirse por gemación. Géneros representativos: Ascidia, Ciona y Didemnum.
-
+  -------------------------------------------------------------------- --------------------------------
 ![](index-15_1.jpg)
 
 *Ciona*
-
+  -------------------------------------------------------------------- --------------------------------
 Orden **Pleurogona**: son urocordados que forman pequeñas reuniones incluidas en una sola túnica, con el poro y la cavidad atrial comunes. Géneros representativos: Clavellina y Botryllus.
-
+  -------------------------------------------------------------------- --------------------------------
 ![](index-15_2.jpg)
 
 *Botryllus*
-
-## Clase THALIACEA 
+  -------------------------------------------------------------------- --------------------------------
+### Clase THALIACEA 
 
 Griego: *thalia*, exuberante + *aceos*, sufijo (Exuberantes, lujosos)
 
@@ -384,19 +379,19 @@ Orden Salpida: Incluye los thaliaceos que tienen las bandas musculares interrump
 Género representativo: *Salpa*.
 
 Orden Doliolida: El cuerpo tiene forma de un pequeño tonel con bandas o anillos musculares completos en derredor y dos series de estigmas respiratorios. Género representativo: *Doliolum*.
-
+  -------------------------------------------------------------------- --------------------------------
 ![](index-16_1.jpg)
 
 *Doliolum*
-
+  -------------------------------------------------------------------- --------------------------------
 Orden Pyrosomida: Son pelágicos que forman colonias tubulares de numerosos y pequeños zooides, cuya reproducción es asexual por gemación y sin fase sexuada. Generalmente son luminiscentes.
 
 Género representativo: *Pyrosoma*.
-
+  -------------------------------------------------------------------- --------------------------------
 ![](index-16_2.jpg)
 
 *Pyrosoma*
-
+  -------------------------------------------------------------------- --------------------------------
 ### Clase LARVACEA 
 
 Latín: *larva*, espíritu + *aceos*, sufijo. (Fantasmas)
@@ -409,11 +404,11 @@ La clase incluye unas 70 especies en un solo órden: Appendicularia.
 Géneros representativos:
 
 *Oikopleura, Appendicularia*.
-
+  -------------------------------------------------------------------- --------------------------------
 ![](index-16_3.jpg)
 
 *Appendicularia*
-
+  -------------------------------------------------------------------- --------------------------------
 ## SUBPHYLUM CEPHALOCHORDATA 
 
 Griego: *Cephale*, cabeza + *chorda* cuerda
@@ -451,13 +446,14 @@ A cada barra branquial primaria corresponde un saco nefridial que se abre por un
 #### Reproducción y desarrollo 
 
 Los sexos están separados, pero no hay dimorfismo sexual aparente. Las gónadas se presentan en forma de 26 pares de bolsas dispuestas metaméricamente a lo largo de la pared del cuerpo. Cuando maduran, las células sexuales se liberan en la cavidad atrial y salen por el atrioporo al exterior, donde se produce la fecundación (Generalmente en la primavera). Después de la puesta, ocurren estados larvarios muy parecidos a los adultos. 
+
 #### Taxonomía
 
 Se conocen 33 especies. El primer ejemplar del subphylum que se describió fue enviado al zoólogo alemán Pallas, el cual lo confundió con una babosa y le dio el nombre de Limax lanceolatus (1774). Posteriormente, el primero que lo dibujó, le puso el nombre de Anfioxus lanceolatus (1836). Sin embargo, en 1834 ya se le había nominado como Branchiostoma, por lo que esta denominación es la que quedó. Se puede utilizar el término "anfioxo" como nombre común. Todos los representantes de la clase se encuentran en un solo orden: Amphioxiformes. Géneros representativos: Branchiostoma (8 especies) y Asymmetron (6 especies).
-
+  -------------------------------------------------------------------- --------------------------------
 ![](index-18_1.jpg)
 *Asymmetron*
-
+  -------------------------------------------------------------------- --------------------------------
 #### Literatura complementaria:
 
 -   Brusca, R. C., W. Moore, S. M. Shuter. 2016. Invertebrates. Sinauer-Oxford University Press. United States of America.
@@ -468,17 +464,16 @@ Se conocen 33 especies. El primer ejemplar del subphylum que se describió fue e
 
 -   Parker, T. J., W. A. Haswell y J. Nadal. 1991. Zoología: Cordados. Reverté. España.
 
-# Sección 04 
-## INTRODUCCIÓN A LOSVERTEBRADOS
+# INTRODUCCIÓN A LOSVERTEBRADOS
 
-### SUBPHYLUM VERTEBRATA
+## SUBPHYLUM VERTEBRATA
 
 La mayor parte de las especies de cordados vivientes y extintos están incluidos en el Subphylum Vertebrata. Se reconocen para la actualidad casi 70,000 especies. La historia de los vertebrados se despliega a lo largo de 540 millones de años; durante ese tiempo, entre los vertebrados han evolucionado algunos de los mayores y más complejos animales
 conocidos.
 
 Los vertebrados ocupan entornos marinos, dulceacuícolas, terrestres y aéreos y presentan una enorme variedad de modos de vida. Como los tunicados y los anfioxos, los vertebrados son auténticos cordados, y en algún momento de su vida presentan las cinco características definitorias de los cordados: notocordio, hendiduras faríngeas, endostilo o glándula tiroides, cordón nervioso hueco dorsal y cola postanal.
 
-#### CARACTERÍSTICAS DE LOS VERTEBRADOS 
+### CARACTERÍSTICAS DE LOS VERTEBRADOS 
 
 -   Características generales de los cordados: notocordio, hendiduras branquiales, cordón nervioso dorsal y cola postanal.
 
@@ -508,9 +503,9 @@ Los vertebrados ocupan entornos marinos, dulceacuícolas, terrestres y aéreos y
 
 -   Plan estructural que consiste en cabeza, tronco y cola postanal.
 
-#### MORFOLOGÍA Y ANATOMÍA GENERAL DE LOS VERTEBRADOS 
+### MORFOLOGÍA Y ANATOMÍA GENERAL DE LOS VERTEBRADOS 
 
-#### 1. Tegumento
+#### Tegumento
 
 El tegumento de los vertebrados tiene dos componentes: una capa profunda de origen mesodérmico que consiste principalmente de tejido conectivo (llamada dermis), y una capa externa de origen ectodérmico llamada epidermis.
 
@@ -519,22 +514,16 @@ El tegumento de los vertebrados tiene dos componentes: una capa profunda de orig
 **\*Glándulas tegumentarias**: Se presentan en muchos vertebrados; se originan del epitelio (epidermis) y crecen en profundidad alcanzando la dermis. Algunos ejemplos son:
 
 -   Odoríferas (reptiles y mamíferos)
-
 -   Oleosas (aves y mamíferos) También llamadas sebáceas
-
 -   Sudoríferas (mamíferos)
-
 -   Mamarias (mamíferos)
-
 -   De cerumen (mamíferos)
-
 -   Lagrimales (mamíferos)
-
 -   Salivales (tetrápodos)
 
 **Dermis**: Contiene grandes cantidades de tejido conectivo elástico y colagénico que en algunos mamíferos y reptiles se puede curtir, resultando el cuero. Entre las fibras conectivas corren vasos sanguíneos y linfáticos, nervios al servicio de los órganos sensoriales cutáneos y músculos del integumento (como los que erizan el pelo o las plumas). Los tiburones y los ornitorrincos poseen receptores eléctricos cutáneos de extraordinaria sensibilidad, que permiten a estos animales localizar a las presas mediante los pequeños campos eléctricos que generan todas las criaturas vivientes. La dermis es capaz de desarrollar hueso, siendo el origen de los exoesqueletos presentes en tortugas, armadillos, placodermos, cocodrilos, algunos dinosaurios, entre otros. Las escamas de los peces son derivadas de la dermis; en este caso la epidermis se reduce a una delgada capa de mucosa, por esta razón se considera a las escamas de los peces como "verdaderas" y a las de los reptiles y aves como "falsas" ya que estas últimas son epidérmicas.
 
-#### 2. Esqueleto
+#### Esqueleto
 
 Es un sistema interno de piezas articuladas de hueso, cartílago o ambos. Sus funciones principales son las de soporte en la movilidad y la protección de órganos importantes. Es de origen mesodérmico. El endoesqueleto de los vertebrados se divide en:
 
@@ -550,7 +539,7 @@ es la parte del esqueleto que no se origina embriológicamente de los primitivos
 
 está constituido por los arcos viscerales, los cuales en los peces son, de adelante hacia atrás: arco mandibular, arco hioideo y arcos branquiales. En los tetrápodos el primer arco se conserva como tal, pero los demás se modifican grandemente debido al cambio de respiración, quedando como derivados de dichos arcos huesos como los que conducen el sonido en el oído medio, la laringe, huesos del paladar, cartílago de la tráquea, etc.
 
-#### 3. Músculos 
+#### Músculos 
 
 Se reconocen tres tipos en vertebrados: liso, que forma parte de las vísceras, cardíaco, que forma el corazón y estriado que está unido al endoesqueleto.
 
@@ -560,7 +549,7 @@ Se reconocen tres tipos en vertebrados: liso, que forma parte de las vísceras, 
 
 **C. Músculo estriado (esquelético):** Visto al microscopio, el músculo esquelético parece tener bandas transversales o estriaciones que resultan de su estructura fundamental. El músculo esquelético también está bajo control voluntario y, generalmente, se encuentra asociado con huesos y cartílagos. Cada célula muscular esquelética es multinucleada, con muchos núcleos distribuidos por su citoplasma. Las células individuales, generalmente, son menores de 5 cm de largo, pero pueden estar unidas por los extremos para formar fibras compuestas más largas. Por su estrecha relación con el endoesqueleto, el sistema muscular esquelético se clasifica igual que aquél: musculatura somática (axial y apendicular) y musculatura visceral.
 
-#### 4. Sistema nervioso
+#### Sistema nervioso
 
 El sistema nervioso de los vertebrados es el más complejo de todo el reino animal. Sus principales divisiones anatómicas son:
 
@@ -582,7 +571,7 @@ b) Médula espinal: Se encuentra alojada en la columna vertebral y presenta meta
 
 Se forma de dos partes diferenciadas: somática motora-sensorial, que controla los movimientos corporales y está relacionada con las sensaciones no viscerales, y autónoma que regula los procesos fisiológicos. El SNP está formado por nervios, órganos sensoriales y ganglios periféricos. El sistema autónomo es doble y consiste en dos ramas antagónicas: simpática (relacionada con la respuesta al estrés) y parasimpática que es relajante.
 
-#### 5. Recepción sensorial
+#### Recepción sensorial
 
 En los vertebrados, a diferencia de los invertebrados, no solo existen neuronas sensoriales, sino también células neuroepiteliales que actúan como receptores. Los órganos sensoriales son muy complejos.
 
@@ -593,7 +582,7 @@ En los vertebrados, a diferencia de los invertebrados, no solo existen neuronas 
 **C. Gusto:** Se trata de células epiteliales que poseen largas microvellosidades, agrupadas en papilas gustativas (lengua, faringe, etc. En peces también en la cabeza). Se reconocen cuatro tipos de células, de acuerdo a los sabores básicos: dulce, salado, ácido y amargo.
 
 **D. Olfato:** El sentido del olfato está relacionado con la existencia de quimiorreceptores que suelen estar situados en los conductos nasales. Anatómicamente, el circuito sensorial olfativo está formado por tres componentes: el epitelio olfativo, los bulbos olfativos y los tractos olfativos. Asimismo, el órgano vomeronasal, que únicamente está presente en algunos tetrápodos, se denomina así debido a que generalmente se encuentra protegido por los huesos del mismo nombre. La mayoría de las tortugas, los cocodrilos, las aves, algunos murciélagos, los primates y los mamíferos acuáticos carecen de órganos vomeronasales. En los anfibios se encuentran en una zona apartada de la cavidad nasal principal. En los reptiles se encuentran situados en unos huecos independientes. En los mamíferos que los poseen, se encuentran en un área aislada de la membrana olfativa, en el interior de la cavidad nasal. Los órganos vomeronasales son órganos olfativos accesorios. En ellos hay células basales, de soporte y células sensoriales bipolares, similares al del epitelio olfativo.
-#### 6. Sistema digestivo 
+#### Sistema digestivo 
 
 El sistema digestivo de un vertebrado adulto se compone del tubo digestivo y las glándulas accesorias. El tubo digestivo es un conducto tubular que se extiende por el cuerpo desde la boca hasta el ano o la abertura cloacal; en las paredes que tapizan este tubo hay una serie de glándulas cuyas secreciones se liberan directamente a la luz. Se reconocen tres secciones del tubo digestivo: boca, faringe y canal alimentario (que a su vez se divide en esófago, estómago, intestino delgado e intestino grueso).
 
@@ -603,7 +592,7 @@ El hígado y el páncreas de los vertebrados, como órganos independientes, no p
 
 La lengua es también exclusiva de los vertebrados y su función es la de manipular el alimento tanto dentro como fuera de la cavidad oral (de acuerdo a las adaptaciones de cada animal).
 
-#### 7. Sistema respiratorio
+#### Sistema respiratorio
 
 Los vertebrados pueden respirar por medio de pulmones, branquias externas, branquias internas, vejigas gaseosas o por el tegumento. Las branquias internas y los pulmones son excepcionales porque se desarrollan a partir de una porción del tubo digestivo y están revestidos por el mismo epitelio.
 
@@ -613,7 +602,7 @@ Los vertebrados pueden respirar por medio de pulmones, branquias externas, branq
 
 **C. Vejiga gaseosa:** Muchos de los actinopterigios poseen una vejiga gaseosa que es un saco alargado situado en posición dorsal con respecto al tubo digestivo. Normalmente su función es la de controlar la flotabilidad del pez en la columna vertical, pero en algunos también presenta funciones respiratorias. En este último caso, las paredes de la vejiga están profusamente vascularizadas, lo que ayuda en el intercambio de gases.
 
-#### 8. Sistema circulatorio
+#### Sistema circulatorio
 
 El sistema circulatorio se compone principalmente de dos elementos: sangre y sistema vascular. El sistema vascular, a su vez, se compone de:
 
@@ -637,11 +626,11 @@ El sistema circulatorio se compone principalmente de dos elementos: sangre y sis
 
 La sangre de los vertebrados está compuesta por una mayor proporción de células que la sangre de los invertebrados.
 
-#### 9. Sistema excretor
+#### Sistema excretor
 
 Está formado básicamente por unidades excretoras llamadas nefronas. En los vertebrados se encuentran tres tipos de riñones con diferentes grados de complejidad, de acuerdo al desarrollo ontogenético y evolutivo. El pronefro, que se encuentra en agnatos adultos y en estado embrionarios del resto de vertebrados consiste en una serie de nefronas conectadas a un tubo colector llamado conducto arquinéfrico, el cual conduce la orina hasta la vejiga urinaria o directamente al exterior, realizando una filtración simple. Dicho conducto cambia de función en los machos (como conducto espermático). El mesonefro, presente en adultos de peces mandibulados y anfibios ya realiza una filtración más selectiva. El riñón de los reptiles, aves y mamíferos, llamado metanefro, es el más derivado. Las nefronas comunican a tubos colectores que llevan la orina a estructuras en forma de copa llamadas cálices, estos a su vez la llevan al cáliz mayor. Este cáliz se conecta a los uréteres que llevan la orina hacia la vejiga (excepto en aves, que no poseen vejiga) y de ahí al exterior a través de la uretra. Se realiza una filtración doble como adaptación al ahorro de agua en ambientes continentales, que es una condición primitiva generalizada de los amniotas.
 
-#### 10. Sistema reproductor
+####  Sistema reproductor
 
 Las gónadas de los vertebrados presentan un par de características que los hacen únicos dentro del Reino Animalia. 1. En el desarrollo embrionario de los vertebrados existe un etapa en la que las gónadas ya están bien formadas, pero no pertenecen a ningún sexo todavía; es decir, son indiferenciadas. Esto tiene implicaciones en la vida adulta, ya que algunos vertebrados tienen la capacidad de cambiar de sexo. Además persisten estructuras vestigiales del sexo contrario, hecho que no se produce en invertebrados dioicos. 2. Las gónadas de los vertebrados son únicas también porque además de producir gametos, funcionan como glándulas endócrinas productoras de hormonas sexuales.
 
@@ -653,8 +642,6 @@ Las gónadas de los vertebrados presentan un par de características que los hac
 - Kardong, K. V. 2014. Vertebrados: anatomía, comparada función, evolución. Mc Graw Hill. España.
 - Parker, T. J., W. A. Haswell y J. Nadal. 1991. Zoología: Cordados. Reverté. España.
 - Romer, A. S. y T. S. Parsons. 1981. Anatomía comparada. Interamericana. México.
-
-# Sección 05
 
 # Agnatos: características y diversidad
 
@@ -671,82 +658,72 @@ Las gónadas de los vertebrados presentan un par de características que los hac
 
 Los agnatos son el grupo de vertebrados más primitivos, se tienen registros desde el Cámbrico inferior (540 ma). Se reconocen siete grupos organizados a nivel de clase. Los conodontos y los ostracodermos (Pteraspidomorphi, Anaspida, Thelodonti y Osteostraci) presentan muchos problemas taxonómicos por tratarse de grupos fósiles en su totalidad y porque su registro es escaso y fragmentario, por lo que puede haber variaciones taxonómicas importantes.
 
-### Clase MYXINI
+## Clase MYXINI
 
 Griego: *myxa* = viscoso
 
 Son un grupo enteramente marino que se alimenta de peces muertos o moribundos, anélidos, moluscos y crustáceos. Son depredadores y carroñeros. Tienen una narina que comunica con la cavidad oral y de una a quince aberturas branquiales. Los conductos de salida de las branquias generalmente se unen para formar uno solo en las fases adultas. Los ojos están muy degenerados y en la mayor parte del grupo han desaparecido. Son de gran interés para los fisiólogos. Al contrario de otros vertebrados acuáticos, son isosmóticos con el agua de mar al igual que algunos invertebrados. Poseen no menos de cuatro conjuntos de corazones situados en diferentes lugares del cuerpo, que impulsan la sangre a través de su sistema circulatorio de baja presión. Producen enormes cantidades de moco en poco tiempo. Este moco es de naturaleza defensiva y alimenticia. Otra peculiaridad es su capacidad para anudarse a sí mismos, ya sea para arrancar trozos de comida, como para liberarse de sus depredadores.
 
-  ------------------------------------------------------------ ------------------------------------------------------------
-   ![](index-28_1.jpg)  
-   *Myxine*  
-   ![](index-28_2.jpg)
-    *Eptatetrus*
-  ------------------------------------------------------------ ------------------------------------------------------------
+### Taxonomía
 
-Taxonomía: Todos los representantes de la Clase se incluyen en un solo orden: Myxiniformes. Alrededor de 60 especies vivientes. Géneros representativos: Myxine y Eptatretus. La biología reproductiva de los mixines es muy poco conocida. Se sabe que, aunque en un mismo individuo existen gónadas de ambos sexos, solo una de ellas es funcional. Las hembras producen un pequeño número de huevos sorprendentemente grandes, con mucho vitelo y hasta 3 cm de diámetro. No existen estados larvarios y el desarrollo es directo. Se distribuyen principalmente en aguas templadas del Océano Atlántico y Pacífico.
+Todos los representantes de la Clase se incluyen en un solo orden: Myxiniformes. Alrededor de 60 especies vivientes. Géneros representativos: Myxine y Eptatretus. La biología reproductiva de los mixines es muy poco conocida. Se sabe que, aunque en un mismo individuo existen gónadas de ambos sexos, solo una de ellas es funcional. Las hembras producen un pequeño número de huevos sorprendentemente grandes, con mucho vitelo y hasta 3 cm de diámetro. No existen estados larvarios y el desarrollo es directo. Se distribuyen principalmente en aguas templadas del Océano Atlántico y Pacífico.
 
-### Clase PETROMYZONTIDA (=CEPHALASPIDOMORPHI)
+![](index-28_1.jpg)  
+*Myxine*  
+
+![](index-28_2.jpg)
+*Eptatetrus*
+
+
+## Clase PETROMYZONTIDA (=CEPHALASPIDOMORPHI)
 
 Griego: *Petros* = piedra y *myzon* = absorber o chupar (chupapiedras). El nombre de grupo hace referencia a la costumbre de la lamprea de agarrarse a las piedras con su boca para sujetarse en una corriente. La mayor parte son ectoparásitos de peces. Son los agnatos más conocidos y probablemente los más especializados. Descendientes de los ostracodermos, son marinos y dulceacuícolas. Los hay desde 30 cm hasta 1 metro de longitud. Se caracterizan por tener la boca en forma circular a manera de embudo para succionar y una lengua raspadora. Poseen una sola narina y el notocordio es persistente hasta el estado adulto.
 
-#### Morfología corporal
+### Morfología corporal
 
 Presentan la llamada degeneración anguiliforme: cuerpo cilíndrico y ausencia de miembros pareados. En el extremo anterior se encuentra el embudo oral, tapizado por pequeños dientes córneos. La narina se encuentra en la parte dorsal media de la región cefálica. La pineal se encuentra como mancha blanquecina vestigial detrás de la narina. Detrás de los ojos (laterales) se sitúan generalmente 7 pares de aberturas branquiales. En el tercio posterior se localiza la cloaca. Se pueden reconocer una aleta dorsal anterior, una dorsal posterior y una caudal.
 
-#### Tegumento
+### Tegumento
 
 No poseen estructuras exoesqueléticas, siendo la piel lisa y delgada. Se pueden notar los paquetes musculares. La piel es resbalosa debido al mucus secretado por numerosas glándulas epidérmicas microscópicas.
 
-#### Endoesqueleto
+### Endoesqueleto
 
 Es de tipo cartilaginoso y lo más notable es la permanencia del notocordio toda la vida. Sobre el notocordio se forman delgadas plaquitas que protegen a la médula. No poseen un cráneo bien formado: consta de un conjunto de cartílagos pareados y no pareados que soportan el embudo oral y protegen al encéfalo. Existen también cestas branquiales que dan soporte a las branquias.
 
-#### Sistema muscular
+### Sistema muscular
 
 La musculatura más importante es la axial, formada por paquetes musculares en forma de W, cuya contracción alternada por segmentos provoca la locomoción por ondulaciones del cuerpo. Como musculatura especializada se presenta la lengua, que raspa el tejido blando de la presa.
 
-#### Sistema digestivo
+### Sistema digestivo
 
 Principia en la cavidad oral que se conecta, a su vez, con el esófago y el intestino (no existe estómago). La secreción de las glándulas salivales impide la coagulación de la sangre de la víctima. El hígado está bien diferenciado y está comunicado con el intestino por el conducto biliar. El páncreas no se encuentra diferenciado como órgano. Por último, el ano se abre a la cloaca.
 
-#### Sistema respiratorio
+### Sistema respiratorio
 
 El intercambio de gases se lleva a cabo a través del tejido vascularizado de las branquias, las cuales tienen forma de bolsas con una abertura externa que comunica al exterior y una abertura interna que comunica con la faringe. La faringe es un tubo ciego, a diferencia de los demás vertebrados en los que se continúa con el esófago. El agua entra y sale por las aberturas branquiales externas, sin pasar por la boca, la cual puede realizar la única función de tomar el alimento.
 
-#### Sistema circulatorio
+### Sistema circulatorio
 
 La aorta ventral sale del corazón y lleva la sangre hacia las branquias y al resto del cuerpo (a través de la aorta dorsal). De regreso de los tejidos, la sangre pasa por las venas, entrando al corazón.
 
-#### Sistema nervioso y órganos de los sentidos
+### Sistema nervioso y órganos de los sentidos
 
 El encéfalo y la médula se encuentran parcialmente protegidos por cartílago de cráneo y vértebras respectivamente. Como en todos los peces, los nervios craneales se organizan en 10 pares. El órgano olfatorio se compone de un saco olfatorio y una abertura (narina). Los ojos son laterales y a veces se encuentran atrofiados. El oído interno se encuentra situado en la cápsula ótica o auditiva, y su función es la de determinar la posición del cuerpo y el movimiento. Poseen un sistema rudimentario de línea lateral que capta movimientos del agua.
 
-#### Sistema urogenital
+### Sistema urogenital
 
 Presentan un par de riñones primitivos, los cuales son alargados y colocados en la parte dorsal de la cavidad celómica. La orina es transportada a la cloaca por conductos arquinéfricos. Las gónadas se encuentran también en la parte dorsal entre los riñones. Los sexos están separados. Al madurar los óvulos y los espermatozoides se liberan dentro del celoma. De ahí viajan hacia un par de aberturas celómicas que se ubican en el último tramo del conducto excretor. La fecundación es externa, liberándose los espermatozoides muy cerca de los óvulos cuando las lampreas están entrelazadas.
 
-#### Ciclo biológico
+### Ciclo biológico
 
 Todas las lampreas remontan ríos o corrientes de agua dulce para reproducirse. Las formas marinas son anádromas (corriente arriba), es decir, dejan el mar para desovar río arriba. Los machos comienzan la construcción de los nidos y son ayudados posteriormente por la hembra. Forman una depresión oval en el fondo rodeado de rocas. En el momento del desove, la hembra se sujeta a una roca y el macho a la hembra (adhiriéndose a la parte dorsal de la hembra). A medida que los huevos son depositados, son fecundados. Los huevos se adhieren a las rocas y se cubren con arena. Los adultos mueren poco después de la puesta. Los huevos eclosionan dos semanas después. Sale una larva muy diferente al adulto (ammocete) y muy parecida a un anfioxo. Después de reabsorber los restos de vitelo, el joven ammocete de unos 7 mm de longitud, abandona el nido y se deja llevar corriente abajo para instalarse en una zona arenosa apropiada de aguas lentas. Aquí permanece un tiempo extraordinariamente largo, de 3 a 7 años, y entonces con rapidez se convierte en adulto. La metamorfosis consiste en el desarrollo de grandes ojos, formación del disco con dientes, desplazamiento del orificio nasal y desarrollo de la musculatura natatoria. Las lampreas parásitas se alimentan de sangre, utilizando anticoagulante (puede ser mortal para el huésped). Las no parásitas no se alimentan en estado adulto (su tubo digestivo degenera como un cordón de tejido no funcional). Viven unos pocos meses como adultos. Las lampreas de agua dulce parásitas viven un año o más antes del desove y las anádromas viven más tiempo.
 
-#### Distribución geográfica
+### Distribución geográfica
 
 Generalmente prefieren aguas templadas y frías. Se localizan en lagos del hemisferio norte principalmente y el Océano Atlántico.
 
-![](index-31_1.jpg)
 
-![](index-31_2.jpg)
-
-*Lampetra*
-
-![](index-31_3.jpg)
-
-*Petromyzon*
-
-![](index-31_4.jpg)
-
-*Ichthyomyzon*
 
 #### Taxonomía: 
 
@@ -762,9 +739,22 @@ Géneros y especies representativos:
 
 *Ichthyomyzon sp*.: Este de Norteamérica
 
+![](index-31_1.jpg)
+
+*Lampetra*
+
+![](index-31_3.jpg)
+
+*Petromyzon*
+
+![](index-31_4.jpg)
+
+*Ichthyomyzon*
+
 La Petromyzon marinus ha causado muchos problemas en los grandes lagos de E. U. (invasión provocada por la construcción de un canal), por lo que hay programas de exterminio. Los problemas causados se enfocan en la merma de las especies de importancia en la pesca deportiva de la región. La lamprea de Chapala se considera extinta.
 
-#### †Clase CONODONTA 
+## †Superclase CONODONTA
+### †Clase CONODONTA 
 
 Durante casi 150 años, unos microfósiles con forma de diente, conocidos como elementos conodontos, han sido unos importantes fósiles indicadores en muchos estudios geológicos. Aunque muy comunes en rocas del Cámbrico tardío hasta finales del Triásico, el organismo portador de este conjunto de elementos fosfáticos, agudos o en forma de peine, era desconocido, y se especulaba sobre si era un molusco, un cordado, o incluso partes de una planta acuática. Este misterio se resolvió a principios de los años ochenta, con el descubrimiento de impresiones fósiles de un animal de cuerpo blando, delgado y comprimido, dotado de un juego completo de elementos conodontos en su boca. Estos fósiles presentaban la prueba de que eran verdaderos vertebrados. El cuerpo exhibía una serie de miotomos en forma de V, una probable notocorda en la linea media y radios en una aleta caudal, lo que podría interpretarse como una cola postanal. Por encima de la notocorda se encuentran una banda, que coincide con la interpretación de un cordón nervioso dorsal. El examen histológico de los elementos conodontos sugiere la presencia de tejidos dentales mineralizados conocidos en los vertebrados, hueso celular, cristales de fosfato cálcico, cartílago calcificado, esmalte y dentina. La dentina es depositada por odontoblastos, derivados embrionarios del ectomesodermo, lo que puede ser una prueba indirecta de la existencia de una cresta neural, un tejido exclusivo de los vertebrados.
 
@@ -777,63 +767,69 @@ Muchos pensaron que el aparato de los conodontos era un sistema para la alimenta
   *Reconstrucción de un conodonto*
   ------------------------------------------------------------ ------------------------------------------------------------
 
-†Clase PTERASPIDOMORPHI (Diplorhina)
+## †Superclase PTERASPIDOMORPHI
+### †Clase PTERASPIDOMORPHI (Diplorhina)
 
 Peces que vivieron del Cámbrico superior al Silúrico. Caparazón formado por grandes placas dorsales y ventrales. Tubérculos en forma de hoja de encino en los huesos dermales.
 
 Células óseas ausentes; la naturaleza acelular de los huesos puede ser más un carácter primitivo que una condición secundaria, a diferencia de los peces avanzados, los cuales se derivaron de osteocitos. Al menos dos canales semicirculares. El origen monofilético de este grupo está actualmente bien aceptado. Tres subclases y 4 órdenes (Astrapidiformes, Arandaspidiformes, Cyathaspidiformes y Pteraspidiformes).
 Géneros representativos: *†Astraspis, †Arandaspis*,
-  ------------------------------------------------------------ ------------------------------------------------------------
-    ![](index-33_1.jpg)
 
-    *†Arandaspis*
+  ![](index-33_1.jpg)
 
-    ![](index-33_2.jpg)
+  *†Arandaspis*
 
-    *†Pteraspis*
+  ![](index-33_2.jpg)
 
-    ![](index-33_3.jpg)
+  *†Pteraspis*
 
-    *†Astraspis*
-  ------------------------------------------------------------ ------------------------------------------------------------
-†Clase ANASPIDA
+  ![](index-33_3.jpg)
+
+  *†Astraspis*
+
+### †Clase ANASPIDA
 
 Peces predominantemente dulceacuícolas del Silúrico y Devónico. Cuerpo fusiforme o ligeramente deprimido, con una longitud máxima de 15 cm y boca terminal. Seis a 15 pares de aperturas branquiales laterales. La región branquial se encuentra en la parte posterior de los ojos, con la primera apertura un tanto separada de los mismos (como en lampreas). Ojos grandes y laterales; cola hipocerca. Grandes lóbulos epicordales. Aleta dorsal anterior ausente. Espinas pectorales únicas presentes. Cuerpo usualmente cubierto por escamas ornamentales dorsoventralmente elongadas. Un solo orden (Anaspidiformes). Géneros representativos: *†Pharyngolepis, †Lasanius, †Jamoytius* y *†Birkenia*.
-  ------------------------------------------------------------ ------------------------------------------------------------
-    ![](index-33_5.jpg)
 
-    *†Jamoytius*
+  ------------------------------------------------------------------------------------------------------------------------
+  ![](index-33_5.jpg)
 
-    ![](index-33_4.jpg)
+  *†Jamoytius*
 
-    *†Pharyngolepis*
-  ------------------------------------------------------------ ------------------------------------------------------------
-†Clase THELODONTI
+  ![](index-33_4.jpg)
+
+  *†Pharyngolepis*
+  ------------------------------------------------------------------------------------------------------------------------
+
+### †Clase THELODONTI
 
 Este grupo fue conocido primeramente por escamas aisladas y tomó una gran importancia en la datación estratigráfica. La mayoría son de cuerpo deprimido, con una boca horizontal, cola asimétrica, una aleta dorsal y un par de prolongaciones pectorales. Algunos son comprimidos con una boca tubular y colas simétricas. Vivieron del Ordovícico superior al Devónico superior. Se reconocen cinco ordenes (Loganelliformes, Shieliiformes, Phlebolepidiformes, Thelodontiformes y Furcacaudiformes).
 Géneros representativos: †Thelodus, †Lanarkia, †Paralogania, †Furcacauda.
-  ------------------------------------------------------------ ------------------------------------------------------------
-    ![](index-34_4.jpg)
 
-    *†Lanarkia*
+  ------------------------------------------------------------------------------------------------------------------------
+  ![](index-34_4.jpg)
 
-    ![](index-34_1.jpg)
+  *†Lanarkia*
 
-    *†Thelodus*
-  ------------------------------------------------------------ ------------------------------------------------------------
+  ![](index-34_1.jpg)
 
-#### †Clase OSTEOSTRACI (Monorhina) 
+  *†Thelodus*
+  ------------------------------------------------------------------------------------------------------------------------
+
+### †Clase OSTEOSTRACI (Monorhina) 
 
 Según análisis cladísticos, este grupo es considerado como hermano de los gnatostomados. Vivieron en el Silúrico y Devónico. La coraza cefálica es de una sola pieza y no crecía con el pez. Tenían dos canales semicirculares. Algunas zonas óseas de los cephalaspidomorfos podrían haber tenido osteocitos. Un solo nostrilo abierto entre los ojos con el ojo pineal por detrás. El sistema de línea lateral estaba restringido a la cabeza. Se reconocen tres órdenes (Cephalaspidiformes, Galeaspidiformes y Pituriaspidiformes). Géneros representativos: *†Hemicyclaspis, †Cephalaspis, †Ateleaspis, †Eugaleaspis, †Huananaspis.*
-  ------------------------------------------------------------ ------------------------------------------------------------
-    ![](index-34_2.jpg)
 
-    *†Hemicyclaspis*
+ ------------------------------------------------------------------------------------------------------------------------
+  ![](index-34_2.jpg)
 
-    ![](index-34_3.jpg)
+  *†Hemicyclaspis*
 
-    *†Cephalaspis*
-  ------------------------------------------------------------ ------------------------------------------------------------
+  ![](index-34_3.jpg)
+
+  *†Cephalaspis*
+ ------------------------------------------------------------------------------------------------------------------------
+
 Literatura complementaria:
 
 -   Álvarez del Villar, J. 1977. Los cordados: origen, evolución y hábitos de los vertebrados. CECSA. México.
@@ -862,11 +858,10 @@ Literatura complementaria:
 
 -   Torres-Orozco, R. 1991. Los peces de México. AGT Editor. México.
 
-# **Sección 06** 
 
-## Los primeros gnatostomados 
+# Los primeros gnatostomados 
 
-### **Infraphylum GNATOSTOMATA** 
+## **Infraphylum GNATOSTOMATA** 
 
 **CARACTERISTICAS:**
 
@@ -946,8 +941,7 @@ Tipos de aleta caudal:
 
 **PRINCIPALES CARACTERÍSTICAS MORFOLÓGICAS DE UN PEZ**
 
-![Captura de pantalla 2021-10-10
-010908](Captura%20de%20pantalla%202021-10-10%20010908.png)
+![](Captura%20de%20pantalla%202021-10-10%20010908.png)
 
 **†Clase: PLACODERMI**
 
@@ -973,19 +967,21 @@ Se cree que la retención de los dentículos y la pérdida del resto de las plac
 órdenes:
 
 †Acanthothoraciformes, †Rhenaniformes, †Antiarchiformes, † Petalichthyiformes, †Ptyctodontiformes y †Arthrodiriformes. Algunos géneros representativos son: † *Dunkleosteus,* † *Bothriolepis* y *Coccosteus.*
+
   ------------------------------------------------------------ ------------------------------------------------------------
-    ![](index-39_3.jpg)
+  ![](index-39_3.jpg)
 
-    † *Dunkleosteus*
+  † *Dunkleosteus*
 
-    ![](index-39_5.jpg)
+  ![](index-39_5.jpg)
 
-    † *Bothriolepis*
+  † *Bothriolepis*
 
-    ![](index-39_4.jpg)
+  ![](index-39_4.jpg)
 
-    † *Coccosteus*
+  † *Coccosteus*
   ------------------------------------------------------------ ------------------------------------------------------------
+
 #### **Literatura complementaria:** 
 
 -   Álvarez del Villar, J. 1977. **Los cordados: origen, evolución y hábitos de los vertebrados**.CECSA. México.
@@ -1012,7 +1008,7 @@ Se cree que la retención de los dentículos y la pérdida del resto de las plac
 
 -   Torres-Orozco, R. 1991. **Los peces de México**. AGT Editor. México.
 
-# **Sección 07** 
+
 
 # Los condríctios 
 
@@ -1020,7 +1016,7 @@ Se cree que la retención de los dentículos y la pérdida del resto de las plac
 
 Del griego *chondros,* cartílago y *ichtys,* pez
 
-##### **CARACTERÍSTICAS** 
+### **CARACTERÍSTICAS** 
 
 • Esqueleto cartilaginoso
 
@@ -1036,7 +1032,7 @@ Del griego *chondros,* cartílago y *ichtys,* pez
 
 • Dientes bien formados
 
-##### **MORFOLOGÍA Y ANATOMÍA** 
+#### **MORFOLOGÍA Y ANATOMÍA** 
 
 **Morfología**
 
@@ -1139,21 +1135,18 @@ Es un grupo casi en su totalidad marino. Algunas especies hacen incursiones haci
 
 -   Torres-Orozco, R. 1991. **Los peces de México**. AGT Editor. México.
 
-# **Sección 08** 
 
-# Condríctios 
+### Diversidad y taxonomía 
 
-# Diversidad y taxonomía 
-
-## **Superclase CHONDRICHTHYES** 
+#### Clase CHONDRICHTHYES
 
 Los condrictios son una clase antigua, homogénea y bien adaptada. Aunque son un conjunto mucho menor y menos diversificado que los peces óseos, la impresionante combinación de unos órganos sensoriales bien desarrollados, potentes mandíbulas, musculatura natatoria y hábitos depredadores, les asegura una posición ecológica firme en la comunidad acuática. Excepto algunas calcificaciones aquí y allá, el hueso óseo falta por completo en toda la clase: un curioso hecho evolutivo, ya que los condrictios derivan de unos antecesores que presentaban exoesqueleto óseo bien desarrollado. El grupo incluye unas 1,201 especies y se divide en dos subgrupos reconocidos taxonómicamente al nivel de subclase.
 
-### **Clase ELASMOBRANCHII** 
+#### **Subclase ELASMOBRANCHII** 
 
 Del griego *elasmos,* placa de metal y *branchia* branquia. Son carnívoros que localizan a su presa mediante su sistema de la línea lateral y grandes órganos olfativos. Su vista no está bien desarrollada.  Taxonómicamente se agrupan en tres infraclases, dos de las cuales son extintas.
 
-#### **†Subclase Cladoselachimorpha** 
+#### **†Infraclase Cladoselachimorpha** 
 
 Son los elasmobranquios más primitivos. Poseían dos aletas dorsales y sin aleta anal. El orificio cloacal en posición muy posterior. La suspensión mandibular de tipo anfistílico. Los dientes tenían una cúspide principal en la parte media y varias cúspides secundarias. El notocordio fue persistente. No tenían gonopterigio por lo que la fecundación pudo haber sido externa. Fueron marinos en su totalidad y habitaron la Tierra del Devónico al Triásico. Pueden considerarse como el tronco basal del que se desarrollaron el resto de elasmobranquios. Se reconocen dos órdenes: **Cladoselachiformes** y **Cladodontiformes**. Géneros representativos: *Cladoselache* (1 m) y *Ctenacanthus* (80 cm).
 
@@ -1161,7 +1154,7 @@ Son los elasmobranquios más primitivos. Poseían dos aletas dorsales y sin alet
 
 † *Cladoselache*
 
-**†Subclase Xenacantimorpha**
+#### **†Infraclase Xenacantimorpha**
 
 También llamados pleurocántidos, fueron tiburones dulceacuícolas que vivieron en el Carbonífero y Pérmico, persistiendo como fauna residual hasta finales del Triásico. Condición anfistílica del cráneo. Las aletas pectorales tienen un eje central articulado y dos series de radios cartilaginosos, una preaxial y otra postaxial, y en las aletas pélvicas solamente el eje y los radios preaxiales, esto es, aletas pectorales de tipo arquipterigio. Tienen dos aletas anales; la dorsal está muy prolongada, casi se une a la caudal que es dificerca. El notocordio es persistente. Se consideran como rama evolutiva lateral originada en los cladoseláceos, cuando apenas habían invadido el ambiente marino y regresaron a las aguas dulces. Se conoce un solo orden: **Xenacantiformes**. Género representativo: *Xenacanthus =Pleuracanthus*
 (75 cm).
@@ -1170,7 +1163,7 @@ También llamados pleurocántidos, fueron tiburones dulceacuícolas que vivieron
 
 † *Xenacanthus*
 
-**Subclase Euselachii**
+#### **Infraclase Euselachii**
 
 Están incluidos los tiburones y las rayas actuales (Alrededor de 981 especies vivientes) . Se caracterizan porque las aletas pares carecen de eje central o medio; las pectorales, además presentan la base muy reducida.
 
@@ -1186,7 +1179,9 @@ al Cretácico. Los machos poseían espinas cefálicas a manera de ganchos que qu
 
 † *Acrodus* e † *Hybodus*.
 
-**Orden Hexanchiformes:** (6 spp.) (Tiburón serpiente, cañabotas) Se caracterizan por tener 6 a 7 hendiduras branquiales por lo que son considerados muy primitivos. 
+**Orden Hexanchiformes:** 
+
+(6 spp.) (Tiburón serpiente, cañabotas) Se caracterizan por tener 6 a 7 hendiduras branquiales por lo que son considerados muy primitivos. 
 Géneros representativos: *Chlamydoselachus* y *Hexancus*
 
 ![](index-47_2.jpg)
@@ -1430,7 +1425,6 @@ Dentición caracterizada por placas de crecimiento permanente. Palatocuadrado fu
 
 -   Torres-Orozco, R. 1991. **Los peces de México**. AGT Editor. México.
 
-# Sección 09 
 
 # Los acantodios 
 
@@ -1482,7 +1476,7 @@ Entre los géneros representativos están: *†Climatius, †Parexus,
 
 †Diplacanthus
 
-#### Literatura complementaria: 
+### Literatura complementaria: 
 
 -   Benton, M. J. 2014. Vertebrate Palaeontology. Blackwell SC. United
     Kingdom.
@@ -1503,13 +1497,10 @@ Entre los géneros representativos están: *†Climatius, †Parexus,
 -   Nelson, J. S. 2006. Fishes of the World. John Wiley & Sons, Inc.
     U.S.A.
 
-# **Sección 10** 
 
 # Los Actinopterigios 
 
-Características
-
-**Superclase: ACTINOPTERYGII**
+## **Superclase: ACTINOPTERYGII**
 
 Del griego: *actinos*, radios + *pteron*, aleta.
 
@@ -1531,8 +1522,7 @@ Del griego: *actinos*, radios + *pteron*, aleta.
 
 -   Boca terminal con muchos dientes o sin ellos.
 
--   Intercambio gaseoso en branquias soportadas por arcos branquiales
-    óseos y cubiertos por un opérculo común.
+-   Intercambio gaseoso en branquias soportadas por arcos branquiales óseos y cubiertos por un opérculo común.
 
 -   Con vejiga gaseosa en la mayoría de los casos.
 
@@ -1693,7 +1683,7 @@ Las naciones orientales y el norte de Europa tienen un amplio desarrollo de la p
 
 • Pesca deportiva: que apoya la industria turística. Especies importantes: marlin, pez espada, salmón, trucha, etc.
 
-#### **Literatura complementaria:** 
+### **Literatura complementaria:** 
 
 -   Burnie, D. & D. E. Wilson. 2001. **Animal: the definitive visual
     guide to the worldś wildlife.** DK. U.S.A.
@@ -1732,15 +1722,7 @@ Las naciones orientales y el norte de Europa tienen un amplio desarrollo de la p
 
 -   Torres-Orozco, R. 1991. **Los peces de México**. AGT Editor. México.
 
-# **Sección 11** 
-
-# Los Actinopterigios 
-
-DIVERSIDAD Y TAXONOMÍA
-
-**ACTINOPTERIGIOS**
-
-**CLASIFICACION GENERAL**
+## **CLASIFICACION GENERAL**
 
 **SUPERCLASE ACTINOPTERIGII**
 
@@ -1748,35 +1730,34 @@ Representa el grupo de peces óseos de mayor éxito evolutivo en cuanto a la con
 
 Formado por 3 subclases, 67 órdenes (entre extintos y actuales) y 26,891 especies. El grupo se origina en el Devónico en cuerpos de agua dulce. Eran, al principio, pequeños de grandes ojos con aletas caudales heterocercas.
 
-Su principal característica es la presencia de radios en las aletas y la ausencia de lóbulos (con excepciones). Como abanicos, las aletas pueden ser extendidas hacia fuera o doblarlas juntas, y también pueden ser levantadas, bajadas, aproximarse al cuerpo o ser alejadas del mismo. Carecen de coanas. La clase se divide en 3 subclases, 67 ordenes (entre actuales y extintos) y un aproximado al año 2014 de 30,534 especies vivientes: **CLASE CLADISTEI**
+Su principal característica es la presencia de radios en las aletas y la ausencia de lóbulos (con excepciones). Como abanicos, las aletas pueden ser extendidas hacia fuera o doblarlas juntas, y también pueden ser levantadas, bajadas, aproximarse al cuerpo o ser alejadas del mismo. Carecen de coanas. La clase se divide en 3 subclases, 67 ordenes (entre actuales y extintos) y un aproximado al año 2014 de 30,534 especies vivientes: 
+
+**CLASE CLADISTEI**
 
 Formada por un solo orden, que tiene representantes actuales. Originados en el Devónico, prosperaron durante 200 millones de años y posteriormente fueron sustituidos por peces más especializados.
 
 **Orden Polypteriformes:** (12 spp.) peces de cuerpo generalmente fusiforme y aleta caudal heterocerca, escamas de forma romboica. Los bichires ( *Polypterus*) son representantes vivos de este grupo con escamas ganoideas con dentículos externos. Las aletas pectorales tienen un pequeño lóbulo carnoso. La vejiga gaseosa es bilobulada y se encuentra en posición ventral. Son únicamente dos géneros: *Polypterus y* *Calamoichthys*, ambos habitantes de los ríos de Africa.
-  ------------------------------------------------------------ ------------------------------------------------------------
-    ![](index-64_9.jpg)
+  ------------------------------------------------------------------------------------------------------------------------
+  ![](index-64_9.jpg)
 
-    *Polypterus*
+  *Polypterus*
 
-    ![](index-64_10.jpg)
+  ![](index-64_10.jpg)
 
-    *Calamoichthys*
-
-    ![](index-65_1.png)
-
-    ![](index-65_2.jpg)
-
-    ![](index-65_3.jpg)
-
-    ![](index-65_4.jpg)
-  ------------------------------------------------------------ ------------------------------------------------------------
+  *Calamoichthys*
+  ------------------------------------------------------------------------------------------------------------------------
 **CLASE CHONDROSTEI**
 
 Formada por un solo orden con representantes actuales y 10 extintos. Son filogenéticamente cercanos a los paleoniscoideos por la tendencia a la condrificación del esqueleto.
 
 **Orden Acipenseriformes:** (28 spp.) Tienen aleta caudal heterocerca, el rostro prolongado y el cuerpo cubierto por cinco series de escudos óseos o desnudo. La vejiga gaseosa está en posición dorsal al tubo digestivo y conectado a este. El intestino tiene válvula espiralada (como los tiburones). Los esturiones y peces espátula son ejemplos: *Acipenser*, esturión del Mar Caspio. Los peces espátula habitan ríos de Norteamérica *Polyodon*  y China ( *Polyodon*).
 
+  ![](index-65_1.png)
 *Acipenser*
+
+  ![](index-65_2.jpg)
+  *Polyodon*
+
 
 **CLASE HOLOSTEI**
 
@@ -1784,26 +1765,15 @@ Representados por siete órdenes, cinco de los cuales están extintos. Aparecier
 
 **Orden Amiiformes:** (1 sp.) peces de extraña apariencia, con la caudal heterocerca abreviada; la aleta dorsal muy prolongada y el cuerpo protegido por escamas pequeñas cuadragulares muy imbricadas y con ganoína en la superficie. Género y especie única: *Amia calva.*
 
-**Orden Lepisosteiformes:** (7 spp.) peces dulceacuícolas con el rostro
+  ![](index-65_4.jpg)
 *Amia*
 
-prolongado en forma de pico y en el extremo los orificios nasales. Las escamas son pesadas y romboicas. Son los llamados pejelagartos. Género representativo: *Lepisosteus* y *Atractosteus.*
+**Orden Lepisosteiformes:** (7 spp.) peces dulceacuícolas con el rostro prolongado en forma de pico y en el extremo los orificios nasales. Las escamas son pesadas y romboicas. Son los llamados pejelagartos. Género representativo: *Lepisosteus* y *Atractosteus.*
 
-*Lepisosteus*
+  ![](index-65_3.jpg)
 
-![](index-66_1.jpg)
+  *Lepisosteus*
 
-![](index-66_2.jpg)
-
-![](index-66_3.png)
-
-![](index-66_4.png)
-
-![](index-66_5.jpg)
-
-![](index-66_6.png)
-
-![](index-66_7.png)
 
 **CLASE TELEOSTEI**
 
@@ -1815,10 +1785,12 @@ Los principales órdenes son los siguientes:
 
 **Orden Clupeiformes:** (394 spp.) (Arenques, sardinas, anchoas, anchovetas, etc.) peces caracterizados por ser primitivos, con aletas carentes de espinas, sostenidas sólo por radios generalmente ramificados.
 
-Son fisóstomos. Las aletas pélvicas implantadas siempre en la región abdominal. Presentan Recessus lateralis (una conexión en la que varios *Clupea*
+Son fisóstomos. Las aletas pélvicas implantadas siempre en la región abdominal. Presentan Recessus lateralis (una conexión en la que varios canales sensoriales emergen dentro de una cámara en la región ótica del neurocráneo, no conocida en ningún otro grupo). Géneros representativos: *Clupea, Sardinella* y *Sardina.*
 
-canales sensoriales emergen dentro de una cámara en la región ótica del neurocráneo, no conocida en ningún otro grupo). Géneros representativos: *Clupea, Sardinella* y *Sardina.*
-
+![](index-66_1.jpg)
+ *Clupea*
+ 
+![](index-66_7.png)
 *Sardinella*
 
 **Orden Anguilliformes:** (906 spp.) (Anguilas verdaderas, morenas) Cuerpo alargado, esbelto; con aletas dorsales, caudales y anales continuas.
@@ -1827,14 +1799,20 @@ Aletas pélvicas generalmente ausentes. Escamas pequeñas o ausentes.
 
 Fisóstomos. Vértebras numerosas, hasta 260. Géneros representativos: *Anguilla, Conger* y *Muraena*
 
+![](index-66_3.png)
 *Muraena*
 
+
+![](index-66_5.jpg)
 *Anguilla*
+
+![](index-66_4.png)
 
 *Gymnothorax*
 
 **Orden Cypriniformes:** (3,969 spp.) (Carpas, anguilas eléctricas, pez dorado, etc.) peces con aparato de Weber (elementos laterales separados de cuatro vértebras formando "los huesecillos del oído" conectando a la vejiga gaseosa con el oído interno) Son fisóstomos con la vejiga dividida en dos o tres partes. La mayor parte de agua dulce. Géneros representativos: *Cyprinus, Barbus, Catostomus* y *Gobio.*
 
+![](index-66_2.jpg)
 *Cyprinus*
 
 **Orden Characiformes:** (1,979 spp.) (Tetras, pirañas) Dientes usualmente bien desarrollados (la mayoría son carnívoros). Presentan aleta adiposa.
@@ -1842,6 +1820,8 @@ Fisóstomos. Vértebras numerosas, hasta 260. Géneros representativos: *Anguill
 Cuerpo casi siempre cubierto de escamas de tipo ctenoidea. Pélvicas presentes y anal corta o moderadamente larga. Línea laterial normalmente recurvada y algunas veces incompleta. Géneros representativos:
 *Serrasalmus*.
 
+
+![](index-66_6.png)
 *Serrasalmus*
 
 ![](index-67_1.png)
@@ -3805,17 +3785,6 @@ Parker, T. J., W. A. Haswell y J. Nadal. 1991. Zoología: Cordados. Reverté. Es
 
 Romer, A. S. y T. S. Parsons. 1981. Anatomía comparada. Interamericana. México.
 
-![](index-115_1.png)
-
-![](index-115_2.jpg)
-
-![](index-115_3.jpg)
-
-![](index-115_4.png)
-
-![](index-115_5.png)
-
-![](index-115_6.jpg)
 
 ![](index-115_7.jpg)
 
@@ -3823,9 +3792,7 @@ Romer, A. S. y T. S. Parsons. 1981. Anatomía comparada. Interamericana. México
 
 Sección 19
 
-Las
-
-aves
+Las aves
 
 diversidad y taxonomía
 
