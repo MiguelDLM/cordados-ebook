@@ -252,14 +252,9 @@ Sexos separados, dimorfismo sexual y fecundación externa. En algunas especies s
 
 Se conocen unas 70 especies que se agrupan en un solo orden: Balanoglossida. Algunos géneros representativos son: *Balanoglossus, Saxipendium, Xenopleura, Protoglossus* y *Saccoglossus*.
 
-  -------------------------------------------------------------------- --------------------------------
-  ![](index-10_1.jpg)
-    *Balanoglossus*  
+![*Balanoglossus*](index-10_1.jpg)
 
-  ![](index-10_3.jpg)
-  *Saccoglossus*
-                                                     
-  -------------------------------------------------------------------- --------------------------------
+![*Saccoglossus*](index-10_3.jpg)
 
 ### Clase PTEROBRANCHIA
 
@@ -276,11 +271,9 @@ Rhabdopleura es una especie colonial, sus zooides son de sexos separados, pero l
 #### Taxonomía:
 
 Todas las especies de la clase se incluyen en un solo orden: Cephalodiscida. Se conocen 17 especies vivientes. Los géneros representativos de la clase son: *Cephalodiscus, Rhabdopleura* y *Atubaria*.
-  -------------------------------------------------------------------- --------------------------------
-![](index-11_1.jpg)
 
-*Cephalodiscus*
-  -------------------------------------------------------------------- --------------------------------
+![*Cephalodiscus*](index-11_1.jpg)
+
 ### †Clase GRAPTOLITHINA
 
 Griego: *graptos*, escrito y *lithos*, piedra. Es una clase extinta de hemicordados coloniales que abundaron en los mares desde el Cámbrico medio hasta el Carbonífero inferior. Sus fósiles son muy comunes y de distribución mundial, siendo utilizados por los paleontólogos como indicadores de edad. Se consideran parientes muy cercanos de los pterobranquios. Géneros representativos: *Rastrites, Dydimograptus* y *Climatograptus*.
@@ -323,6 +316,7 @@ Griego: *oura*, cola + latín *chorda*, cordón + ata, caracterizado por. Este s
 -   Carecen de órganos excretores. El amoniaco se difunde y el ácido úrico es recolectado por nefrocitos ameboides de la sangre.
 
 -   Son en su mayoría hermafroditas.
+
 ### Clase ASCIDIACEA 
 
 Griego: *askiolon*, bolsita + *aceos* sufijo (Pequeñas bolsas) Incluye
@@ -339,11 +333,8 @@ Del sifón oral parte el tubo digestivo que, al llegar a la cavidad atrial, se e
 El corazón es un saco muscular situado cerca del estómago. No hay verdaderos vasos, la sangre circula a través de un sistema de canales o senos, por lo que es un sistema abierto.
 
 La respiración se lleva a cabo en la faringe, la sangre lleva a cabo el intercambio gaseoso en las hendiduras faríngeas, y de ahí el oxígeno se distribuye al cuerpo en general. El sistema nervioso es extremadamente simple. Hay un solo ganglio neural que está situado entre las aberturas oral y atrial, del que parten nervios para todas partes del cuerpo. 
-  -------------------------------------------------------------------- --------------------------------
-![](index-14_1.jpg)
 
-Morfología y anatomía de una ascidia.
-  -------------------------------------------------------------------- --------------------------------
+![Morfología y anatomía de una ascidia.](index-14_1.jpg)
 
 #### Reproducción y desarrollo
 
@@ -354,17 +345,13 @@ La fecundación suele tener lugar dentro o fuera de la cavidad atrial. Las larva
 La clase ASCIDIACEA incluye 2,760 especies y se divide en dos órdenes:
 
 Orden **Enterogona**: urocordados solitarios o coloniales en los que cada individuo tiene sifón atrial y túnica independiente. Son incapaces de reproducirse por gemación. Géneros representativos: Ascidia, Ciona y Didemnum.
-  -------------------------------------------------------------------- --------------------------------
-![](index-15_1.jpg)
 
-*Ciona*
-  -------------------------------------------------------------------- --------------------------------
+![*Ciona*](index-15_1.jpg)
+
 Orden **Pleurogona**: son urocordados que forman pequeñas reuniones incluidas en una sola túnica, con el poro y la cavidad atrial comunes. Géneros representativos: Clavellina y Botryllus.
-  -------------------------------------------------------------------- --------------------------------
-![](index-15_2.jpg)
 
-*Botryllus*
-  -------------------------------------------------------------------- --------------------------------
+![*Botryllus*](index-15_2.jpg)
+
 ### Clase THALIACEA 
 
 Griego: *thalia*, exuberante + *aceos*, sufijo (Exuberantes, lujosos)
@@ -379,19 +366,15 @@ Orden Salpida: Incluye los thaliaceos que tienen las bandas musculares interrump
 Género representativo: *Salpa*.
 
 Orden Doliolida: El cuerpo tiene forma de un pequeño tonel con bandas o anillos musculares completos en derredor y dos series de estigmas respiratorios. Género representativo: *Doliolum*.
-  -------------------------------------------------------------------- --------------------------------
-![](index-16_1.jpg)
 
-*Doliolum*
-  -------------------------------------------------------------------- --------------------------------
+![*Doliolum*](index-16_1.jpg)
+
 Orden Pyrosomida: Son pelágicos que forman colonias tubulares de numerosos y pequeños zooides, cuya reproducción es asexual por gemación y sin fase sexuada. Generalmente son luminiscentes.
 
 Género representativo: *Pyrosoma*.
-  -------------------------------------------------------------------- --------------------------------
-![](index-16_2.jpg)
 
-*Pyrosoma*
-  -------------------------------------------------------------------- --------------------------------
+![*Pyrosoma*](index-16_2.jpg)
+
 ### Clase LARVACEA 
 
 Latín: *larva*, espíritu + *aceos*, sufijo. (Fantasmas)
@@ -404,11 +387,9 @@ La clase incluye unas 70 especies en un solo órden: Appendicularia.
 Géneros representativos:
 
 *Oikopleura, Appendicularia*.
-  -------------------------------------------------------------------- --------------------------------
-![](index-16_3.jpg)
 
-*Appendicularia*
-  -------------------------------------------------------------------- --------------------------------
+![*Appendicularia*](index-16_3.jpg)
+
 ## SUBPHYLUM CEPHALOCHORDATA 
 
 Griego: *Cephale*, cabeza + *chorda* cuerda
@@ -450,10 +431,9 @@ Los sexos están separados, pero no hay dimorfismo sexual aparente. Las gónadas
 #### Taxonomía
 
 Se conocen 33 especies. El primer ejemplar del subphylum que se describió fue enviado al zoólogo alemán Pallas, el cual lo confundió con una babosa y le dio el nombre de Limax lanceolatus (1774). Posteriormente, el primero que lo dibujó, le puso el nombre de Anfioxus lanceolatus (1836). Sin embargo, en 1834 ya se le había nominado como Branchiostoma, por lo que esta denominación es la que quedó. Se puede utilizar el término "anfioxo" como nombre común. Todos los representantes de la clase se encuentran en un solo orden: Amphioxiformes. Géneros representativos: Branchiostoma (8 especies) y Asymmetron (6 especies).
-  -------------------------------------------------------------------- --------------------------------
-![](index-18_1.jpg)
-*Asymmetron*
-  -------------------------------------------------------------------- --------------------------------
+
+![*Asymmetron*](index-18_1.jpg)
+
 #### Literatura complementaria:
 
 -   Brusca, R. C., W. Moore, S. M. Shuter. 2016. Invertebrates. Sinauer-Oxford University Press. United States of America.
@@ -511,7 +491,7 @@ El tegumento de los vertebrados tiene dos componentes: una capa profunda de orig
 
 **Epidermis**: Es un epitelio escamoso multiestratificado en el que las células más viejas mueren y se desprenden de la superficie externa, mientras que las células nuevas se producen en una capa basal, mitóticamante activa, el estrato germinativo. En los vertebrados terrestres, las capas epidérmicas más externas consisten en células muertas que se queratinizan. Estas células forman las escamas de los reptiles y derivados epidérmicos, tales como plumas, pelo, púas, garras, uñas, pezuñas, cascos, cascabeles, armaduras epidérmicas (como en los armadillos y tortugas), barbas de ballena y fundas córneas que cubren las mandíbulas de tortugas y aves (pico). Variaciones epidérmicas en el desarrollo producen estructuras tales como cuernos de rinoceronte y la superficie pilosa de las astas de ciervos.
 
-**\*Glándulas tegumentarias**: Se presentan en muchos vertebrados; se originan del epitelio (epidermis) y crecen en profundidad alcanzando la dermis. Algunos ejemplos son:
+**Glándulas tegumentarias**: Se presentan en muchos vertebrados; se originan del epitelio (epidermis) y crecen en profundidad alcanzando la dermis. Algunos ejemplos son:
 
 -   Odoríferas (reptiles y mamíferos)
 -   Oleosas (aves y mamíferos) También llamadas sebáceas
@@ -760,12 +740,9 @@ Durante casi 150 años, unos microfósiles con forma de diente, conocidos como e
 
 Muchos pensaron que el aparato de los conodontos era un sistema para la alimentación filtradora de animales relativamente pequeños, de tres a diez centímetros de largo, aunque algunos alcanzarían los 30 cm. Sin embargo, hay pruebas en algunos de estos elementos que muestran que las piezas posteriores, con forma de cuchilla, eran utilizadas para despedazar y masticar el alimento, algo muy distinto a la alimentación basada en el endostilo de los protocordados. Este aparato de alimentación inusual, el sistema locomotor (notocorda y miotomos), y los ojos relativamente grandes, movidos por los músculos extrínsecos, sugieren además que los conodontos no comían material en suspensión, sino que seleccionaban alimentos de mayor tamaño en las aguas marinas en que vivían (Tomado de Kardong, 1999).
 
-  ------------------------------------------------------------ ------------------------------------------------------------
-   ![](index-32_1.jpg)
-   *Elementos conodontos*      
-   ![](index-32_2.jpg)
-  *Reconstrucción de un conodonto*
-  ------------------------------------------------------------ ------------------------------------------------------------
+![*Elementos conodontos*](index-32_1.jpg)
+
+![*Reconstrucción de un conodonto*](index-32_2.jpg)
 
 ## †Superclase PTERASPIDOMORPHI
 ### †Clase PTERASPIDOMORPHI (Diplorhina)
@@ -775,60 +752,36 @@ Peces que vivieron del Cámbrico superior al Silúrico. Caparazón formado por g
 Células óseas ausentes; la naturaleza acelular de los huesos puede ser más un carácter primitivo que una condición secundaria, a diferencia de los peces avanzados, los cuales se derivaron de osteocitos. Al menos dos canales semicirculares. El origen monofilético de este grupo está actualmente bien aceptado. Tres subclases y 4 órdenes (Astrapidiformes, Arandaspidiformes, Cyathaspidiformes y Pteraspidiformes).
 Géneros representativos: *†Astraspis, †Arandaspis*,
 
-  ![](index-33_1.jpg)
+![*†Arandaspis*](index-33_1.jpg)
 
-  *†Arandaspis*
+![*†Pteraspis*](index-33_2.jpg)
 
-  ![](index-33_2.jpg)
-
-  *†Pteraspis*
-
-  ![](index-33_3.jpg)
-
-  *†Astraspis*
+![*†Astraspis*](index-33_3.jpg)
 
 ### †Clase ANASPIDA
 
 Peces predominantemente dulceacuícolas del Silúrico y Devónico. Cuerpo fusiforme o ligeramente deprimido, con una longitud máxima de 15 cm y boca terminal. Seis a 15 pares de aperturas branquiales laterales. La región branquial se encuentra en la parte posterior de los ojos, con la primera apertura un tanto separada de los mismos (como en lampreas). Ojos grandes y laterales; cola hipocerca. Grandes lóbulos epicordales. Aleta dorsal anterior ausente. Espinas pectorales únicas presentes. Cuerpo usualmente cubierto por escamas ornamentales dorsoventralmente elongadas. Un solo orden (Anaspidiformes). Géneros representativos: *†Pharyngolepis, †Lasanius, †Jamoytius* y *†Birkenia*.
 
-  ------------------------------------------------------------------------------------------------------------------------
-  ![](index-33_5.jpg)
+![*†Jamoytius*](index-33_5.jpg)
 
-  *†Jamoytius*
-
-  ![](index-33_4.jpg)
-
-  *†Pharyngolepis*
-  ------------------------------------------------------------------------------------------------------------------------
+![*†Pharyngolepis*](index-33_4.jpg)
 
 ### †Clase THELODONTI
 
 Este grupo fue conocido primeramente por escamas aisladas y tomó una gran importancia en la datación estratigráfica. La mayoría son de cuerpo deprimido, con una boca horizontal, cola asimétrica, una aleta dorsal y un par de prolongaciones pectorales. Algunos son comprimidos con una boca tubular y colas simétricas. Vivieron del Ordovícico superior al Devónico superior. Se reconocen cinco ordenes (Loganelliformes, Shieliiformes, Phlebolepidiformes, Thelodontiformes y Furcacaudiformes).
 Géneros representativos: †Thelodus, †Lanarkia, †Paralogania, †Furcacauda.
 
-  ------------------------------------------------------------------------------------------------------------------------
-  ![](index-34_4.jpg)
+![*†Lanarkia*](index-34_4.jpg)
 
-  *†Lanarkia*
-
-  ![](index-34_1.jpg)
-
-  *†Thelodus*
-  ------------------------------------------------------------------------------------------------------------------------
+![*†Thelodus*](index-34_1.jpg)
 
 ### †Clase OSTEOSTRACI (Monorhina) 
 
 Según análisis cladísticos, este grupo es considerado como hermano de los gnatostomados. Vivieron en el Silúrico y Devónico. La coraza cefálica es de una sola pieza y no crecía con el pez. Tenían dos canales semicirculares. Algunas zonas óseas de los cephalaspidomorfos podrían haber tenido osteocitos. Un solo nostrilo abierto entre los ojos con el ojo pineal por detrás. El sistema de línea lateral estaba restringido a la cabeza. Se reconocen tres órdenes (Cephalaspidiformes, Galeaspidiformes y Pituriaspidiformes). Géneros representativos: *†Hemicyclaspis, †Cephalaspis, †Ateleaspis, †Eugaleaspis, †Huananaspis.*
 
- ------------------------------------------------------------------------------------------------------------------------
-  ![](index-34_2.jpg)
+![*†Hemicyclaspis*](index-34_2.jpg)
 
-  *†Hemicyclaspis*
-
-  ![](index-34_3.jpg)
-
-  *†Cephalaspis*
- ------------------------------------------------------------------------------------------------------------------------
+![*†Cephalaspis*](index-34_3.jpg)
 
 Literatura complementaria:
 
@@ -968,19 +921,11 @@ Se cree que la retención de los dentículos y la pérdida del resto de las plac
 
 †Acanthothoraciformes, †Rhenaniformes, †Antiarchiformes, † Petalichthyiformes, †Ptyctodontiformes y †Arthrodiriformes. Algunos géneros representativos son: † *Dunkleosteus,* † *Bothriolepis* y *Coccosteus.*
 
-  ------------------------------------------------------------ ------------------------------------------------------------
-  ![](index-39_3.jpg)
+![† *Dunkleosteus*](index-39_3.jpg)
 
-  † *Dunkleosteus*
+![† *Bothriolepis*](index-39_5.jpg)
 
-  ![](index-39_5.jpg)
-
-  † *Bothriolepis*
-
-  ![](index-39_4.jpg)
-
-  † *Coccosteus*
-  ------------------------------------------------------------ ------------------------------------------------------------
+![† *Coccosteus*](index-39_4.jpg)
 
 #### **Literatura complementaria:** 
 
@@ -1737,27 +1682,20 @@ Su principal característica es la presencia de radios en las aletas y la ausenc
 Formada por un solo orden, que tiene representantes actuales. Originados en el Devónico, prosperaron durante 200 millones de años y posteriormente fueron sustituidos por peces más especializados.
 
 **Orden Polypteriformes:** (12 spp.) peces de cuerpo generalmente fusiforme y aleta caudal heterocerca, escamas de forma romboica. Los bichires ( *Polypterus*) son representantes vivos de este grupo con escamas ganoideas con dentículos externos. Las aletas pectorales tienen un pequeño lóbulo carnoso. La vejiga gaseosa es bilobulada y se encuentra en posición ventral. Son únicamente dos géneros: *Polypterus y* *Calamoichthys*, ambos habitantes de los ríos de Africa.
-  ------------------------------------------------------------------------------------------------------------------------
-  ![](index-64_9.jpg)
 
-  *Polypterus*
+![*Polypterus*](index-64_9.jpg)
 
-  ![](index-64_10.jpg)
+![*Calamoichthys*](index-64_10.jpg)
 
-  *Calamoichthys*
-  ------------------------------------------------------------------------------------------------------------------------
 **CLASE CHONDROSTEI**
 
 Formada por un solo orden con representantes actuales y 10 extintos. Son filogenéticamente cercanos a los paleoniscoideos por la tendencia a la condrificación del esqueleto.
 
 **Orden Acipenseriformes:** (28 spp.) Tienen aleta caudal heterocerca, el rostro prolongado y el cuerpo cubierto por cinco series de escudos óseos o desnudo. La vejiga gaseosa está en posición dorsal al tubo digestivo y conectado a este. El intestino tiene válvula espiralada (como los tiburones). Los esturiones y peces espátula son ejemplos: *Acipenser*, esturión del Mar Caspio. Los peces espátula habitan ríos de Norteamérica *Polyodon*  y China ( *Polyodon*).
 
-  ![](index-65_1.png)
-*Acipenser*
+![*Acipenser*](index-65_1.png)
 
-  ![](index-65_2.jpg)
-  *Polyodon*
-
+![*Polyodon*](index-65_2.jpg)
 
 **CLASE HOLOSTEI**
 
@@ -1765,15 +1703,11 @@ Representados por siete órdenes, cinco de los cuales están extintos. Aparecier
 
 **Orden Amiiformes:** (1 sp.) peces de extraña apariencia, con la caudal heterocerca abreviada; la aleta dorsal muy prolongada y el cuerpo protegido por escamas pequeñas cuadragulares muy imbricadas y con ganoína en la superficie. Género y especie única: *Amia calva.*
 
-  ![](index-65_4.jpg)
-*Amia*
+![*Amia*](index-65_4.jpg)
 
 **Orden Lepisosteiformes:** (7 spp.) peces dulceacuícolas con el rostro prolongado en forma de pico y en el extremo los orificios nasales. Las escamas son pesadas y romboicas. Son los llamados pejelagartos. Género representativo: *Lepisosteus* y *Atractosteus.*
 
-  ![](index-65_3.jpg)
-
-  *Lepisosteus*
-
+![*Lepisosteus*](index-65_3.jpg)
 
 **CLASE TELEOSTEI**
 
@@ -1787,11 +1721,9 @@ Los principales órdenes son los siguientes:
 
 Son fisóstomos. Las aletas pélvicas implantadas siempre en la región abdominal. Presentan Recessus lateralis (una conexión en la que varios canales sensoriales emergen dentro de una cámara en la región ótica del neurocráneo, no conocida en ningún otro grupo). Géneros representativos: *Clupea, Sardinella* y *Sardina.*
 
-![](index-66_1.jpg)
- *Clupea*
+![*Clupea*](index-66_1.jpg)
  
-![](index-66_7.png)
-*Sardinella*
+![*Sardinella*](index-66_7.png)
 
 **Orden Anguilliformes:** (906 spp.) (Anguilas verdaderas, morenas) Cuerpo alargado, esbelto; con aletas dorsales, caudales y anales continuas.
 
@@ -1799,16 +1731,11 @@ Aletas pélvicas generalmente ausentes. Escamas pequeñas o ausentes.
 
 Fisóstomos. Vértebras numerosas, hasta 260. Géneros representativos: *Anguilla, Conger* y *Muraena*
 
-![](index-66_3.png)
-*Muraena*
+![*Muraena*](index-66_3.png)
 
+![*Anguilla*](index-66_5.jpg)
 
-![](index-66_5.jpg)
-*Anguilla*
-
-![](index-66_4.png)
-
-*Gymnothorax*
+![*Gymnothorax*](index-66_4.png)
 
 **Orden Cypriniformes:** (3,969 spp.) (Carpas, anguilas eléctricas, pez dorado, etc.) peces con aparato de Weber (elementos laterales separados de cuatro vértebras formando "los huesecillos del oído" conectando a la vejiga gaseosa con el oído interno) Son fisóstomos con la vejiga dividida en dos o tres partes. La mayor parte de agua dulce. Géneros representativos: *Cyprinus, Barbus, Catostomus* y *Gobio.*
 
